@@ -1,0 +1,12 @@
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/bin/Debug/netstandard2.0/lists.deps.json
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/bin/Debug/netstandard2.0/lists.dll
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/bin/Debug/netstandard2.0/lists.pdb
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.csprojAssemblyReference.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.csproj.CoreCompileInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.AssemblyInfoInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.AssemblyInfo.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.dll
+/Users/adrianamota/Documents/OneDrive/courses/Xam/Lists/lists/lists/obj/Debug/netstandard2.0/lists.pdb

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.lists.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.ItemProperties.lists.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9B7C2183-7F43-4662-A3B5-4A77B100748E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lists/MainPage.xaml">
+    <Files>
+      <File FileName="lists/MainPage.xaml.cs" Line="51" Column="31" />
+      <File FileName="lists/Services.cs" />
+      <File FileName="lists/places.cs" />
+      <File FileName="lists/placesGroup.cs" Line="15" Column="10" />
+      <File FileName="lists/MainPage.xaml" Line="21" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lists" expanded="True">
+            <Node name="lists" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="lists.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{341FA657-036C-4BD6-98DF-BD4B5BD2A75C}" ItemName="lists.Android" ConfigurationId="Default" />
+        <StartupItem ItemId="{25B9744D-E512-4969-B32E-8C7500C75E72}" ItemName="lists.iOS" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
